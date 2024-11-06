@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1> Jogo da velha </h1>
+    
 
     <div id="tabuleiro">
         <div class="casa"></div>
